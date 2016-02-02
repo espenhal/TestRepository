@@ -1,4 +1,4 @@
-test
+﻿test
 
 
 Gjort endringer!
@@ -7,3 +7,5 @@ Gjort endringer!
 espen legger til noe her
 
 Lagt inn endringer som er hotfixet på live
+
+Enda en ny endring i master
